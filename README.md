@@ -75,9 +75,9 @@ TechBlog/
 ## 🛠️ Installation & Configuration
 
 ### Prérequis
-- [.NET SDK 9.0](https://dotnet.microsoft.com/download)
-- [SQL Server](https://www.microsoft.com/fr-fr/sql-server/sql-server-downloads) (ou SQL Server Express)
-- [Git](https://git-scm.com/downloads)
+- [.NET SDK 9.0]
+- [SQL Server]
+- [Git]
 ---
 ### 1. Cloner le dépôt
 ```bash
@@ -93,7 +93,6 @@ cd TechBlog
   "ConnectionStrings": {
 	"DefaultConnection": "Server=localhost;Database=TechBlogDB;User Id=sa;Password=your_password;"
   },
-  ...
 }
 ```
 ### 3. Appliquer les migrations
