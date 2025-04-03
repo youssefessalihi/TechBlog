@@ -71,7 +71,7 @@ TechBlog/
 │   ├── Dashboard/             # 🎨 Template AdminLTE
 │   └── lib/                   # 📚 Bibliothèques (Bootstrap, jQuery)
 └── appsettings.json           # ⚙️ Configuration (chaîne de connexion DB)
-
+```
 ## 🛠️ Installation & Configuration
 
 ### Prérequis
@@ -81,7 +81,7 @@ TechBlog/
 
 ### 1. Cloner le dépôt
 ```bash
-git clone https://github.com/votre-repo/TechBlog.git
+git clone https://github.com/youssefessalihi/TechBlog
 cd TechBlog
 
 ### 2. Configurer la base de données
@@ -104,5 +104,5 @@ dotnet ef database update
 dotnet run
 ```
 
-# Développé avec passion 💻 dans le cadre académique de SupMTI.
+### Développé avec passion 💻 dans le cadre académique de SupMTI.
 
