@@ -1,0 +1,33 @@
+﻿@model TechBlog.ViewModels.LoginVM
+
+@{
+    Layout = "_LoginLayout";
+    ViewData["Title"] = "Login";
+}
+
+<div class="row justify-content-center align-items-center vh-100">
+    <div class="col-md-6 col-lg-5">
+        <div class="card o-hidden border-0 shadow-lg">
+            <div class="card-body p-4">
+                <div class="text-center">
+                    <h1 class="h4 text-gray-900 mb-4">Welcome Back!</h1>
+                </div>
+                <form class="user" method="post" asp-action="Login">
+                    <div class="mb-3">
+                        <input asp-for="Username" type="text" class="form-control" placeholder="Enter Username...">
+                        <span asp-validation-for="Username" class="text-danger"></span>
+                    </div>
+                    <div class="mb-3">
+                        <input asp-for="Password" type="password" class="form-control" placeholder="Password">
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                    <div class="mb-3 form-check">
+                        <input asp-for="RememberMe" type="checkbox" class="form-check-input" id="customCheck">
+                        <label class="form-check-label" for="customCheck">Remember Me</label>
+                    </div>
+                    <button type="submit" class="btn btn-primary w-100">Login</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
