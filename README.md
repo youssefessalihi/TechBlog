@@ -78,12 +78,13 @@ TechBlog/
 - [.NET SDK 9.0](https://dotnet.microsoft.com/download)
 - [SQL Server](https://www.microsoft.com/fr-fr/sql-server/sql-server-downloads) (ou SQL Server Express)
 - [Git](https://git-scm.com/downloads)
-
+---
 ### 1. Cloner le dépôt
 ```bash
 git clone https://github.com/youssefessalihi/TechBlog
-cd TechBlog
 
+cd TechBlog
+```
 ### 2. Configurer la base de données
 
 - Ouvrir `appsettings.json` et configurer la chaîne de connexion à votre base de données SQL Server.
@@ -103,6 +104,7 @@ dotnet ef database update
 ```bash
 dotnet run
 ```
+---
 
 ### Développé avec passion 💻 dans le cadre académique de SupMTI.
 
