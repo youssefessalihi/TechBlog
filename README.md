@@ -1,4 +1,4 @@
-﻿# 📚 TechBlog - Plateforme de Blog Académique  
+﻿# 📚 TechBlog - Plateforme de Blog   
 *Projet réalisé dans le cadre du module .NET à SupMTI*  
 **Encadré par** : M. Omari  
 **Équipe** : Youssef Essalihi, Zineb Harza, Aya Boubekri, Wadie Makich, Halima Elyousfi  
