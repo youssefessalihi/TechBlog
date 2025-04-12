@@ -105,7 +105,7 @@ dotnet run
 ```
 ---
 
-### 5. Screenshot
+### 5. Screenshots
 #### Home:
 ![image](https://github.com/user-attachments/assets/ee700107-5298-474a-b359-6d75c876d903)
 ![image](https://github.com/user-attachments/assets/f51fda9f-af4c-4f22-b075-80b07826653b)
