@@ -107,14 +107,16 @@ dotnet run
 
 ### 5. Screenshot
 #### Home:
-![image](https://github.com/user-attachments/assets/af410298-1fff-4c01-837c-15598f628fef)
-![image](https://github.com/user-attachments/assets/3d669620-60cf-4945-9bc9-7ce352091cd8)
-![image](https://github.com/user-attachments/assets/3fef7837-183a-4a72-be22-1649e01924ee)
-![image](https://github.com/user-attachments/assets/0d76f69f-cbad-418c-8423-c6ad05235eb8)
+![image](https://github.com/user-attachments/assets/ee700107-5298-474a-b359-6d75c876d903)
+![image](https://github.com/user-attachments/assets/f51fda9f-af4c-4f22-b075-80b07826653b)
+![image](https://github.com/user-attachments/assets/d1e73a10-b7df-4be1-bd5e-e1fe1145527a)
+![image](https://github.com/user-attachments/assets/80156e37-c262-4930-a457-20335fc8ac34)
 #### Admin:
-![image](https://github.com/user-attachments/assets/9aed649e-24e3-40ba-92b3-90e4e9edd428)
+![image](https://github.com/user-attachments/assets/ca09c75b-b260-425f-87be-af69d0f39ab9)
+![image](https://github.com/user-attachments/assets/b0813778-0650-4229-8da0-51fd996ae331)
+
 #### Auteur:
-![image](https://github.com/user-attachments/assets/ae98b66a-6037-4c31-a299-65d6ffc2f3fa)
+![image](https://github.com/user-attachments/assets/f148d2be-53b6-4a15-aea5-78f4e1eaf047)
 
 
 ### Développé avec passion 💻 dans le cadre académique de SupMTI.
