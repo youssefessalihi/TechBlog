@@ -105,5 +105,17 @@ dotnet run
 ```
 ---
 
+### 5. Screenshot
+#### Home:
+![image](https://github.com/user-attachments/assets/af410298-1fff-4c01-837c-15598f628fef)
+![image](https://github.com/user-attachments/assets/3d669620-60cf-4945-9bc9-7ce352091cd8)
+![image](https://github.com/user-attachments/assets/3fef7837-183a-4a72-be22-1649e01924ee)
+![image](https://github.com/user-attachments/assets/0d76f69f-cbad-418c-8423-c6ad05235eb8)
+#### Admin:
+![image](https://github.com/user-attachments/assets/9aed649e-24e3-40ba-92b3-90e4e9edd428)
+#### Auteur:
+![image](https://github.com/user-attachments/assets/ae98b66a-6037-4c31-a299-65d6ffc2f3fa)
+
+
 ### Développé avec passion 💻 dans le cadre académique de SupMTI.
 
